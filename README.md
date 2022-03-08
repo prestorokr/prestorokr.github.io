@@ -1,14 +1,15 @@
-# prestorokr.github.io
-## Hello world!
+<html>
+  <head>
+    <title>My Homepage</title>
+  </head>
 
-This is my first try at github!
 
-My Github user page is at: 
-https://github.com/prestorokr/
+  <body>
+    <h1>My homepage!</h1>
+    
+    <h2>
+        ;)
+    </h2>
 
-My Github Pages repo can be found at:  
-https://github.com/prestorokr/prestorokr.github.io/
-
-And, soon, you can see my customized homepage at:
-
-http://prestorokr.github.io/
+  </body>
+</html>
